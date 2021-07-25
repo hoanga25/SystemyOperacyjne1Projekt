@@ -3,7 +3,7 @@
 Oświadczam, że niniejsza praca stanowiąca podstawę do uznania
 osiągnięcia efektów uczenia się z przedmiotu SOP została wykonana przeze
 mnie samodzielnie.
-[Anna Hoang] [305922]
+[Anna Hoang]
 ------------------------------------------------------------------------
 */
 
